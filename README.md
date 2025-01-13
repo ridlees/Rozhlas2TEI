@@ -12,7 +12,7 @@ Exactly as title says. Homework that scrapes Rozhlas data and creates TEI XML fr
 
 OR
 
-`python3 digitalnimetody-víc korpusu.py` if you want everything in seperate TEI files (so it generates around 70 documents)
+`python3 digitalnimetody-víc-korpusu.py` if you want everything in seperate TEI files (so it generates around 70 documents)
 
 I HAVE NO CLUE WHAT IS BETTER :D 
 
