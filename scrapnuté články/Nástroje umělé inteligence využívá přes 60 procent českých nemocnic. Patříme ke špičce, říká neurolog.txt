@@ -1,0 +1,358 @@
+
+
+      Nástroje umělé inteligence využívá přes 60 procent českých nemocnic. Patříme ke špičce, říká neurolog    
+
+
+
+
+„Na začátku musel být člověk – zkušený radiolog nebo neurolog –, který říkal umělé inteligenci, na co se má dívat, jak se má dívat, jak vypadá mozková příhoda, která je akutní,“ popisuje proces trénování umělé inteligence pro Radiožurnál neurolog Ondřej Volný z neurologické kliniky Fakultní nemocnice Ostrava a je předsedou České společnosti pro umělou inteligenci a inovativní digitální technologie v medicíně. 
+
+
+
+
+ 
+Praha
+16:40 12. ledna 2025 
+
+
+Sdílet na Facebooku
+
+
+
+
+ 
+
+Sdílet na Twitteru
+
+
+
+
+ 
+
+Sdílet na LinkedIn
+
+
+
+
+ 
+
+Tisknout
+
+
+
+
+ 
+
+
+Kopírovat url adresu
+
+
+
+
+ 
+
+Zkrácená adresa
+
+
+
+
+
+Kopírovat do schránky
+
+
+
+
+ 
+
+
+
+
+Zavřít
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    Ondřej Volný, docent neurologie a předseda České společnosti pro umělou inteligenci a inovativní digitální technologie v medicíně | Foto: Patricie Strouhalová | Zdroj: Český rozhlas  
+
+
+Jste neurolog, specialista na cévní mozkové příhody. Kdybyste měl popsat, jak konkrétně ve vašem oboru vypadá pomoc umělé inteligence, tak o kolik se zkrátí čas, kdy člověku může být zachráněn život? Protože to jsou často případy, kdy jde o minuty. Dívala jsem se, že třeba před 10 lety doporučovali neurologové zahájit léčbu pacienta s cévní mozkovou příhodou do hodiny. Dneska se hodina zdá být jako strašně dlouhá.Moc děkuji za tuto otázku. Chtěl bych říct, že péče o pacienty s cévní mozkovou příhodou je v České republice na špičkové úrovni. Těch 60 minut, které jste zmínila, jsou na hony od toho, kde jsme teď. Medián časů, kdy pacient přijde do nemocnice a dostane účinnou léčbu, je v České republice kolem 20 minut.
+
+
+
+
+
+          Váš prohlížeč nepodporuje přehrávání audia.
+        
+
+
+
+          Přehrát
+          
+
+
+
+ 
+
+
+
+ 
+00:00 / 00:00
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+        Do budoucna se bez umělé inteligence v konkrétních oborech neobejdeme. Lékař, který bude umět AI nástroje využít pro zlepšení svého datového a časového managementu, bude ceněný, říká neurolog Ondřej Volný      
+
+
+ 
+
+
+V současné době máme data za loňský rok. Léčíme pacienty systémovou trombolýzou, což je účinná léčba, a to číslo přesahuje 30 procent pacientů, kteří přijedou s příznaky CMP, což je neskutečné a řadí nás to na jedny z prvních příček v Evropě, respektive na světě.Někteří pacienti se ale bojí, když se řekne umělá inteligence v medicíně. Máte pro ně pochopení?Mám, protože člověk přirozeně má strach z něčeho, co je nové, co je inovativní. Na druhou stranu my využíváme umělou inteligenci jako pomocný nástroj při analýze zobrazovacích metod, jako je počítačová tomografie, CT, angiografie a podobně. Musíte si uvědomit, že my pacienta zobrazíme, potom se na ty snímky musí podívat radiolog s neurologem dohromady a většinou už během doby, kdy se na snímky díváme, je máme zanalyzovány i pomocným softwarem.Čili to šetří čas především těm, kteří jsou třeba na začátku své kariéry, ať už radiologa nebo neurologa. Jedná se sice jenom o minuty, jednotky minut, ale i ty jednotky minut mají velký dopad, protože pokud neobnovíte prokrvení mozku včas, tak se říká, že odumírají zhruba dva miliony nervových buněk za minutu.
+
+
+
+
+  
+
+
+ 3:23
+
+
+
+
+
+
+
+
+
+        AI může pomoci s podchycením nemocí. Retinopatii může odhalit a léčit i u nedonošených dětí      
+
+
+
+        Číst článek
+        
+
+
+
+ 
+
+
+
+Proč by se lidé přesto neměli bát? Kdy nebo kde by se určitě neměli bát?Určitě by se neměli bát ve zdravotnických zařízeních, které nabízejí možnost analýzy obrazu – EKG a tak dále – pomocí nástroje, který pracuje na bázi umělé inteligence. Tím důvodem je, že všechny tyto nástroje na rozdíl od těch, které jsou běžně dostupné třeba na internetu, jsou certifikované zdravotnické prostředky. To znamená, že mají certifikaci na to, aby byly využívány ve zdravotnictví, v péči o pacienta a že v rámci vývoje těch softwarů musely proběhnout určité zkoušky.Trénování algoritmůJak vypadá český vývojářský trh ve srovnání s cizinou? Vy jste dlouho byl v Kanadě, tak máte toto srovnání. Česká republika určitě patří, dovolím si to říci, do lehkého nadprůměru. Vždycky to samozřejmě může být o něco lepší, na druhou stranu máme start-upovou sféru, která úzce spolupracuje s tou sférou akademickou, nemocniční a tak dále. Musíte si uvědomit, že v případě, že chcete trénovat nějaký algoritmus umělé inteligence nebo strojové učení neuronových sítí, tak potřebujete mít data od pacientů, na kterých algoritmus umělé inteligence trénujete.Umělá inteligence je sice prezentována tak, že se učí sama, nicméně pokud se bavíme třeba o využití umělé inteligence a počítačové tomografie, tak na začátku musel být člověk – zkušený radiolog nebo neurolog –, který říkal umělé inteligenci, na co se má dívat, jak se má dívat, jak vypadá mozková příhoda, která je akutní, jak třeba vypadá ta, která už není akutní…
+
+
+
+
+  
+
+
+ 3:01
+
+
+
+
+
+
+
+
+
+        Liberecká nemocnice jako první v Česku zpřístupnila lidem zdravotní dokumentaci v aplikaci mZdraví      
+
+
+
+        Číst článek
+        
+
+
+
+ 
+
+
+
+A jak dlouho jste musel trénovat vy, když jste začínal? Nakolik to byl pro vás třeba náročnější trénink než se synem, když trénujete hokej?To je taky dobrá otázka. Hned po medicíně v roce 2012 jsem odcestoval do Kanady a první tři měsíce jsem nedělal nic jiného, než že jsem se díval na CT a magnetické rezonance mozku, takže jsem jich za ty tři měsíce viděl stovky, možná nižší tisíce. Na těch jsem se učil sám a pak jsem se posunul do další kategorie, kdy jsme ve spolupráci se zkušenějšími kolegy měli možnost trénovat nějaké pilotní nástroje umělé inteligence. Kolik nemocnic v České republice využívá umělou inteligenci?Podle posledních dat, která jsou z loňského roku a jsou to data České asociace umělé inteligence, nějakou formu AI – nemusí to být pouze v péči o pacienty, to znamená v diagnostice a pomoci při léčbě, může to být také administrativa nebo třeba nákupy – využívá více než 60 procent českých nemocnic.Jsou nemocnice, které v tom jsou dále, některé třeba provádějí pouze pilotní studie… Ale mám informace i od praktických lékařů, že jsou lékaři, kteří začínají využívat pomoc nějakého nástroje třeba pro přepisy zpráv nebo pro triáž telefonních hovorů. Existuje i AI sestřička, která tomu může napomoci. Bude to narůstat a Česká republika patří k vrcholu, k té špičce.Jak vypadá zapojení virtuální reality u pacientů po cévní mozkové příhodě? Co je největší etickou výzvou v souvislosti s využíváním AI ve zdravotnictví? A jaké poznatky a zkušenosti si Ondřej Volný přivezl z Kanady? Poslechněte si celý rozhovor výše. 
+Patricie Strouhalová, krt
+
+
+Sdílet na Facebooku
+
+
+
+
+ 
+
+Sdílet na Twitteru
+
+
+
+
+ 
+
+Sdílet na LinkedIn
+
+
+
+
+ 
+
+Tisknout
+
+
+
+
+ 
+
+
+Kopírovat url adresu
+
+
+
+
+ 
+
+Zkrácená adresa
+
+
+
+
+
+Kopírovat do schránky
+
+
+
+
+ 
+
+
+
+
+Zavřít
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Zprávy, které jste nečetli  
+
+
+
+
+
+
+
+
+
+
+
+    Související články  
+
+
+
+
+
+ 
+
+ 21:15
+
+
+
+
+
+
+
+
+        Čeští gynekologové provedou přes 2 miliony stěrů z děložního hrdla ročně. S rozborem jim pomáhá AI      
+
+
+
+
+
+
+
+
+ 
+
+
+
+        Bude AI předepisovat antidepresiva? Psychiatrům a pacientům by mohla ušetřit celé týdny      
+
+
+
+
+
+
+
+ 
+
+ 13:35
+
+
+
+
+
+
+
+
+        Zpřesnit a zrychlit odhalování nádorů. S tím pomůže software, který za pomoci patologů vyvíjejí v Brně      
+
+
+
+
+
+
+
+        Další články
+        
+
+
+
+ 
+
+
+
+
