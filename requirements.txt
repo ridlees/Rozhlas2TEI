@@ -1,0 +1,3 @@
+lmxl
+requests
+beautifulsoup4
